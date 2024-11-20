@@ -15,7 +15,7 @@ A collection of funny packages which can be interesting to create plots to show 
 
 ```r
 # install.packages("remotes")
-remotes::install_github("R-CoderDotCom/ggecvs@main")
+remotes::install_github("Joon-Klaps/ggecv@main")
 ```
 
 ## Available ecvs
@@ -50,7 +50,7 @@ ggplot(df) +
 
 ```r
 ggplot(mtcars) +
-  geom_ecv(aes(mpg, wt), ecv = "nyanecv", size = 5)
+  geom_ecv(aes(mpg, wt), ecv = "bv", size = 5)
 ```
 
 <p align="center">
@@ -88,8 +88,8 @@ library(gganimate)
 
 dat$ecv <- rep(NA, 132)
 
-dat$ecv[which(dat$income == "median")] <- "nyanecv"
-dat$ecv[which(dat$income == "99percent")] <- rep(c("pop_close", "pop"), 33)
+dat$ecv[which(dat$income == "median")] <- "bv"
+dat$ecv[which(dat$income == "99percent")] <- "pl"
 
 ggplot(dat, aes(x = Year, y = value, group = income, color = income)) +
    geom_line(size = 2) +
