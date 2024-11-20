@@ -1,7 +1,6 @@
-GNU General Public License
-==========================
+# GNU General Public License
 
-_Version 3, 29 June 2007_  
+_Version 3, 29 June 2007_
 _Copyright © 2007 Free Software Foundation, Inc. &lt;<http://fsf.org/>&gt;_
 
 Everyone is permitted to copy and distribute verbatim copies of this license
@@ -61,7 +60,7 @@ computers, but in those that do, we wish to avoid the special danger that patent
 applied to a free program could make it effectively proprietary. To prevent this, the
 GPL assures that patents cannot be used to render the program non-free.
 
-The precise terms and conditions for copying, distribution and modification follow.
+The precise terms and conditions for copying, distribution and modifiecvion follow.
 
 ## TERMS AND CONDITIONS
 
@@ -87,7 +86,7 @@ the Program.
 To “propagate” a work means to do anything with it that, without
 permission, would make you directly or secondarily liable for infringement under
 applicable copyright law, except executing it on a computer or modifying a private
-copy. Propagation includes copying, distribution (with or without modification),
+copy. Propagation includes copying, distribution (with or without modifiecvion),
 making available to the public, and in some countries other activities as well.
 
 To “convey” a work means any kind of propagation that enables other
@@ -105,7 +104,7 @@ menu, a prominent item in the list meets this criterion.
 ### 1. Source Code
 
 The “source code” for a work means the preferred form of the work for
-making modifications to it. “Object code” means any non-source form of a
+making modifiecvions to it. “Object code” means any non-source form of a
 work.
 
 A “Standard Interface” means an interface that either is an official
@@ -131,7 +130,7 @@ generally available free programs which are used unmodified in performing those
 activities but which are not part of the work. For example, Corresponding Source
 includes interface definition files associated with source files for the work, and
 the source code for shared libraries and dynamically linked subprograms that the work
-is specifically designed to require, such as by intimate data communication or
+is specifically designed to require, such as by intimate data communiecvion or
 control flow between those subprograms and other parts of the work.
 
 The Corresponding Source need not include anything that users can regenerate
@@ -150,7 +149,7 @@ of fair use or other equivalent, as provided by copyright law.
 
 You may make, run and propagate covered works that you do not convey, without
 conditions so long as your license otherwise remains in force. You may convey covered
-works to others for the sole purpose of having them make modifications exclusively
+works to others for the sole purpose of having them make modifiecvions exclusively
 for you, or provide you with facilities for running those works, provided that you
 comply with the terms of this License in conveying all material for which you do not
 control copyright. Those thus making or running the covered works for you must do so
@@ -171,7 +170,7 @@ of such measures.
 When you convey a covered work, you waive any legal power to forbid circumvention of
 technological measures to the extent such circumvention is effected by exercising
 rights under this License with respect to the covered work, and you disclaim any
-intention to limit operation or modification of the work as a means of enforcing,
+intention to limit operation or modifiecvion of the work as a means of enforcing,
 against the work's users, your or third parties' legal rights to forbid circumvention
 of technological measures.
 
@@ -189,24 +188,24 @@ support or warranty protection for a fee.
 
 ### 5. Conveying Modified Source Versions
 
-You may convey a work based on the Program, or the modifications to produce it from
+You may convey a work based on the Program, or the modifiecvions to produce it from
 the Program, in the form of source code under the terms of section 4, provided that
 you also meet all of these conditions:
 
-* **a)** The work must carry prominent notices stating that you modified it, and giving a
-relevant date.
-* **b)** The work must carry prominent notices stating that it is released under this
-License and any conditions added under section 7. This requirement modifies the
-requirement in section 4 to “keep intact all notices”.
-* **c)** You must license the entire work, as a whole, under this License to anyone who
-comes into possession of a copy. This License will therefore apply, along with any
-applicable section 7 additional terms, to the whole of the work, and all its parts,
-regardless of how they are packaged. This License gives no permission to license the
-work in any other way, but it does not invalidate such permission if you have
-separately received it.
-* **d)** If the work has interactive user interfaces, each must display Appropriate Legal
-Notices; however, if the Program has interactive interfaces that do not display
-Appropriate Legal Notices, your work need not make them do so.
+-   **a)** The work must carry prominent notices stating that you modified it, and giving a
+    relevant date.
+-   **b)** The work must carry prominent notices stating that it is released under this
+    License and any conditions added under section 7. This requirement modifies the
+    requirement in section 4 to “keep intact all notices”.
+-   **c)** You must license the entire work, as a whole, under this License to anyone who
+    comes into possession of a copy. This License will therefore apply, along with any
+    applicable section 7 additional terms, to the whole of the work, and all its parts,
+    regardless of how they are packaged. This License gives no permission to license the
+    work in any other way, but it does not invalidate such permission if you have
+    separately received it.
+-   **d)** If the work has interactive user interfaces, each must display Appropriate Legal
+    Notices; however, if the Program has interactive interfaces that do not display
+    Appropriate Legal Notices, your work need not make them do so.
 
 A compilation of a covered work with other separate and independent works, which are
 not by their nature extensions of the covered work, and which are not combined with
@@ -222,35 +221,35 @@ You may convey a covered work in object code form under the terms of sections 4 
 5, provided that you also convey the machine-readable Corresponding Source under the
 terms of this License, in one of these ways:
 
-* **a)** Convey the object code in, or embodied in, a physical product (including a
-physical distribution medium), accompanied by the Corresponding Source fixed on a
-durable physical medium customarily used for software interchange.
-* **b)** Convey the object code in, or embodied in, a physical product (including a
-physical distribution medium), accompanied by a written offer, valid for at least
-three years and valid for as long as you offer spare parts or customer support for
-that product model, to give anyone who possesses the object code either **(1)** a copy of
-the Corresponding Source for all the software in the product that is covered by this
-License, on a durable physical medium customarily used for software interchange, for
-a price no more than your reasonable cost of physically performing this conveying of
-source, or **(2)** access to copy the Corresponding Source from a network server at no
-charge.
-* **c)** Convey individual copies of the object code with a copy of the written offer to
-provide the Corresponding Source. This alternative is allowed only occasionally and
-noncommercially, and only if you received the object code with such an offer, in
-accord with subsection 6b.
-* **d)** Convey the object code by offering access from a designated place (gratis or for
-a charge), and offer equivalent access to the Corresponding Source in the same way
-through the same place at no further charge. You need not require recipients to copy
-the Corresponding Source along with the object code. If the place to copy the object
-code is a network server, the Corresponding Source may be on a different server
-(operated by you or a third party) that supports equivalent copying facilities,
-provided you maintain clear directions next to the object code saying where to find
-the Corresponding Source. Regardless of what server hosts the Corresponding Source,
-you remain obligated to ensure that it is available for as long as needed to satisfy
-these requirements.
-* **e)** Convey the object code using peer-to-peer transmission, provided you inform
-other peers where the object code and Corresponding Source of the work are being
-offered to the general public at no charge under subsection 6d.
+-   **a)** Convey the object code in, or embodied in, a physical product (including a
+    physical distribution medium), accompanied by the Corresponding Source fixed on a
+    durable physical medium customarily used for software interchange.
+-   **b)** Convey the object code in, or embodied in, a physical product (including a
+    physical distribution medium), accompanied by a written offer, valid for at least
+    three years and valid for as long as you offer spare parts or customer support for
+    that product model, to give anyone who possesses the object code either **(1)** a copy of
+    the Corresponding Source for all the software in the product that is covered by this
+    License, on a durable physical medium customarily used for software interchange, for
+    a price no more than your reasonable cost of physically performing this conveying of
+    source, or **(2)** access to copy the Corresponding Source from a network server at no
+    charge.
+-   **c)** Convey individual copies of the object code with a copy of the written offer to
+    provide the Corresponding Source. This alternative is allowed only occasionally and
+    noncommercially, and only if you received the object code with such an offer, in
+    accord with subsection 6b.
+-   **d)** Convey the object code by offering access from a designated place (gratis or for
+    a charge), and offer equivalent access to the Corresponding Source in the same way
+    through the same place at no further charge. You need not require recipients to copy
+    the Corresponding Source along with the object code. If the place to copy the object
+    code is a network server, the Corresponding Source may be on a different server
+    (operated by you or a third party) that supports equivalent copying facilities,
+    provided you maintain clear directions next to the object code saying where to find
+    the Corresponding Source. Regardless of what server hosts the Corresponding Source,
+    you remain obligated to ensure that it is available for as long as needed to satisfy
+    these requirements.
+-   **e)** Convey the object code using peer-to-peer transmission, provided you inform
+    other peers where the object code and Corresponding Source of the work are being
+    offered to the general public at no charge under subsection 6d.
 
 A separable portion of the object code, whose source code is excluded from the
 Corresponding Source as a System Library, need not be included in conveying the
@@ -273,7 +272,7 @@ procedures, authorization keys, or other information required to install and exe
 modified versions of a covered work in that User Product from a modified version of
 its Corresponding Source. The information must suffice to ensure that the continued
 functioning of the modified object code is in no case prevented or interfered with
-solely because modification has been made.
+solely because modifiecvion has been made.
 
 If you convey an object code work under this section in, or with, or specifically for
 use in, a User Product, and the conveying occurs as part of a transaction in which
@@ -287,9 +286,9 @@ on the User Product (for example, the work has been installed in ROM).
 The requirement to provide Installation Information does not include a requirement to
 continue to provide support service, warranty, or updates for a work that has been
 modified or installed by the recipient, or for the User Product in which it has been
-modified or installed. Access to a network may be denied when the modification itself
+modified or installed. Access to a network may be denied when the modifiecvion itself
 materially and adversely affects the operation of the network or violates the rules
-and protocols for communication across the network.
+and protocols for communiecvion across the network.
 
 Corresponding Source conveyed, and Installation Information provided, in accord with
 this section must be in a format that is publicly documented (and with an
@@ -316,22 +315,22 @@ Notwithstanding any other provision of this License, for material you add to a
 covered work, you may (if authorized by the copyright holders of that material)
 supplement the terms of this License with terms:
 
-* **a)** Disclaiming warranty or limiting liability differently from the terms of
-sections 15 and 16 of this License; or
-* **b)** Requiring preservation of specified reasonable legal notices or author
-attributions in that material or in the Appropriate Legal Notices displayed by works
-containing it; or
-* **c)** Prohibiting misrepresentation of the origin of that material, or requiring that
-modified versions of such material be marked in reasonable ways as different from the
-original version; or
-* **d)** Limiting the use for publicity purposes of names of licensors or authors of the
-material; or
-* **e)** Declining to grant rights under trademark law for use of some trade names,
-trademarks, or service marks; or
-* **f)** Requiring indemnification of licensors and authors of that material by anyone
-who conveys the material (or modified versions of it) with contractual assumptions of
-liability to the recipient, for any liability that these contractual assumptions
-directly impose on those licensors and authors.
+-   **a)** Disclaiming warranty or limiting liability differently from the terms of
+    sections 15 and 16 of this License; or
+-   **b)** Requiring preservation of specified reasonable legal notices or author
+    attributions in that material or in the Appropriate Legal Notices displayed by works
+    containing it; or
+-   **c)** Prohibiting misrepresentation of the origin of that material, or requiring that
+    modified versions of such material be marked in reasonable ways as different from the
+    original version; or
+-   **d)** Limiting the use for publicity purposes of names of licensors or authors of the
+    material; or
+-   **e)** Declining to grant rights under trademark law for use of some trade names,
+    trademarks, or service marks; or
+-   **f)** Requiring indemnifiecvion of licensors and authors of that material by anyone
+    who conveys the material (or modified versions of it) with contractual assumptions of
+    liability to the recipient, for any liability that these contractual assumptions
+    directly impose on those licensors and authors.
 
 All other non-permissive additional terms are considered “further
 restrictions” within the meaning of section 10. If the Program as you received
@@ -344,7 +343,7 @@ relicensing or conveying.
 
 If you add terms to a covered work in accord with this section, you must place, in
 the relevant source files, a statement of the additional terms that apply to those
-files, or a notice indicating where to find the applicable terms.
+files, or a notice indiecving where to find the applicable terms.
 
 Additional terms, permissive or non-permissive, may be stated in the form of a
 separately written license, or stated as exceptions; the above requirements apply
@@ -382,7 +381,7 @@ using peer-to-peer transmission to receive a copy likewise does not require
 acceptance. However, nothing other than this License grants you permission to
 propagate or modify any covered work. These actions infringe copyright if you do not
 accept this License. Therefore, by modifying or propagating a covered work, you
-indicate your acceptance of this License to do so.
+indiecve your acceptance of this License to do so.
 
 ### 10. Automatic Licensing of Downstream Recipients
 
@@ -417,7 +416,7 @@ A contributor's “essential patent claims” are all patent claims owned or
 controlled by the contributor, whether already acquired or hereafter acquired, that
 would be infringed by some manner, permitted by this License, of making, using, or
 selling its contributor version, but do not include claims that would be infringed
-only as a consequence of further modification of the contributor version. For
+only as a consequence of further modifiecvion of the contributor version. For
 purposes of this definition, “control” includes the right to grant patent
 sublicenses in a manner consistent with the requirements of this License.
 
@@ -573,7 +572,7 @@ Also add information on how to contact you by electronic and paper mail.
 If the program does terminal interaction, make it output a short notice like this
 when it starts in an interactive mode:
 
-    ggcats Copyright (C) 2021 R CODER
+    ggecvs Copyright (C) 2021 R CODER
     This program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.
     This is free software, and you are welcome to redistribute it
     under certain conditions; type 'show c' for details.
@@ -589,7 +588,7 @@ information on this, and how to apply and follow the GNU GPL, see
 
 The GNU General Public License does not permit incorporating your program into
 proprietary programs. If your program is a subroutine library, you may consider it
-more useful to permit linking proprietary applications with the library. If this is
+more useful to permit linking proprietary appliecvions with the library. If this is
 what you want to do, use the GNU Lesser General Public License instead of this
 License. But first, please read
 &lt;<http://www.gnu.org/philosophy/why-not-lgpl.html>&gt;.
